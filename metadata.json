@@ -1,0 +1,6 @@
+{
+  "name": "AutoManager - Sistema de Oficina & Roteiro de Deploy Seguro",
+  "description": "Sistema completo de gestão de oficina mecânica com isolamento de schemas Supabase, segurança RLS, triagem rápida com IA e roteiro detalhado de deploy passo a passo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
